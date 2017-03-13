@@ -122,7 +122,7 @@ Region in which this host is running.
 
 
 [[exported-fields-jsonbeat]]
-== jsonbeat Fields
+== JSON Beat Fields
 
 None
 

@@ -1,5 +1,5 @@
 - key: jsonbeat
-  title: jsonbeat
+  title: JSON Beat
   description:
   fields:
     - name: counter
