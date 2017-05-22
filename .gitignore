@@ -1,0 +1,7 @@
+/.idea
+/build
+
+.DS_Store
+/jsonbeat
+/jsonbeat.test
+*.pyc
