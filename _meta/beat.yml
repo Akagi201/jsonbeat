@@ -5,3 +5,4 @@
 jsonbeat:
   # Defines how often an event is sent to the output
   period: 1s
+  path: "/tmp/jsonbeat.log"
